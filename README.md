@@ -96,6 +96,27 @@ Estoy participando en el reto [#ProgramaEnPantuflas](https://github.com/delineas
 *   Probar ClubHouse #smoke
 
 
+
+---
+
+**Fecha**: 24/01/2021 
+
+**Humor**: :grinning:
+
+**Hitos conseguidos**:
+
+*   Retomar el reto #malandriner
+*   Actualizar la Zona Premium en prod #premium
+
+**Próximos hitos**
+
+*   Escribir una vez por semana en este reto #malandriner
+
+
+
+
+
+
 ## Insignias
 
 ![](https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png)
